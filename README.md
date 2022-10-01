@@ -10,7 +10,7 @@ Bot de descarga gratuita en Cuba a través de Moodle.
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-- [Original Repo](https://github.com/ObisoftDev/tguploaderpro)
+- [Original Repo](https://github.com/DavidTamayo95/UwU-Sam)
 
 ## Comandos
 Agregar en [@BotFather](https://t.me/BotFather)
